@@ -1,0 +1,3716 @@
+fileFormatVersion: 2
+guid: ebba0caa6b4d2204ea6a1287853bfe04
+timeCreated: 1490281319
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_0
+    21300002: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_1
+    21300004: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_2
+    21300006: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_3
+    21300008: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_4
+    21300010: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_5
+    21300012: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_6
+    21300014: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_7
+    21300016: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_8
+    21300018: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_9
+    21300020: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_10
+    21300022: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_11
+    21300024: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_12
+    21300026: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_13
+    21300028: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_14
+    21300030: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_15
+    21300032: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_16
+    21300034: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_17
+    21300036: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_18
+    21300038: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_19
+    21300040: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_20
+    21300042: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_21
+    21300044: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_22
+    21300046: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_23
+    21300048: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_24
+    21300050: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_25
+    21300052: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_26
+    21300054: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_27
+    21300056: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_28
+    21300058: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_29
+    21300060: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_30
+    21300062: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_31
+    21300064: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_32
+    21300066: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_33
+    21300068: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_34
+    21300070: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_35
+    21300072: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_36
+    21300074: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_37
+    21300076: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_38
+    21300078: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_39
+    21300080: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_40
+    21300082: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_41
+    21300084: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_42
+    21300086: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_43
+    21300088: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_44
+    21300090: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_45
+    21300092: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_46
+    21300094: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_47
+    21300096: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_48
+    21300098: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_49
+    21300100: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_50
+    21300102: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_51
+    21300104: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_52
+    21300106: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_53
+    21300108: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_54
+    21300110: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_55
+    21300112: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_56
+    21300114: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_57
+    21300116: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_58
+    21300118: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_59
+    21300120: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_60
+    21300122: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_61
+    21300124: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_62
+    21300126: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_63
+    21300128: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_64
+    21300130: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_65
+    21300132: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_66
+    21300134: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_67
+    21300136: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_68
+    21300138: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_69
+    21300140: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_70
+    21300142: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_71
+    21300144: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_72
+    21300146: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_73
+    21300148: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_74
+    21300150: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_75
+    21300152: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_76
+    21300154: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_77
+    21300156: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_78
+    21300158: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_79
+    21300160: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_80
+    21300162: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_81
+    21300164: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_82
+    21300166: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_83
+    21300168: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_84
+    21300170: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_85
+    21300172: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_86
+    21300174: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_87
+    21300176: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_88
+    21300178: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_89
+    21300180: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_90
+    21300182: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_91
+    21300184: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_92
+    21300186: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_93
+    21300188: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_94
+    21300190: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_95
+    21300192: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_96
+    21300194: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_97
+    21300196: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_98
+    21300198: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_99
+    21300200: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_100
+    21300202: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_101
+    21300204: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_102
+    21300206: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_103
+    21300208: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_104
+    21300210: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_105
+    21300212: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_106
+    21300214: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_107
+    21300216: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_108
+    21300218: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_109
+    21300220: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_110
+    21300222: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_111
+    21300224: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_112
+    21300226: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_113
+    21300228: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_114
+    21300230: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_115
+    21300232: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_116
+    21300234: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_117
+    21300236: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_118
+    21300238: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_119
+    21300240: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_120
+    21300242: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_121
+    21300244: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_122
+    21300246: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_123
+    21300248: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_124
+    21300250: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_125
+    21300252: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_126
+    21300254: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_127
+    21300256: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_128
+    21300258: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_129
+    21300260: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_130
+    21300262: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_131
+    21300264: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_132
+    21300266: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_133
+    21300268: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_134
+    21300270: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_135
+    21300272: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_136
+    21300274: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_137
+    21300276: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_138
+    21300278: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_139
+    21300280: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_140
+    21300282: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_141
+    21300284: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_142
+    21300286: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_143
+    21300288: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_144
+    21300290: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_145
+    21300292: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_146
+    21300294: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_147
+    21300296: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_148
+    21300298: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_149
+    21300300: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_150
+    21300302: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_151
+    21300304: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_152
+    21300306: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_153
+    21300308: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_154
+    21300310: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_155
+    21300312: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_156
+    21300314: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_157
+    21300316: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_158
+    21300318: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_159
+    21300320: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_160
+    21300322: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_161
+    21300324: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_162
+    21300326: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_163
+    21300328: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_164
+    21300330: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_165
+    21300332: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_166
+    21300334: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_167
+    21300336: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_168
+    21300338: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_169
+    21300340: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_170
+    21300342: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_171
+    21300344: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_172
+    21300346: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_173
+    21300348: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_174
+    21300350: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_175
+    21300352: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_176
+    21300354: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_177
+    21300356: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_178
+    21300358: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_179
+    21300360: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_180
+    21300362: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_181
+    21300364: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_182
+    21300366: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_183
+    21300368: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_184
+    21300370: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_185
+    21300372: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_186
+    21300374: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_187
+    21300376: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_188
+    21300378: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_189
+    21300380: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_190
+    21300382: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_191
+    21300384: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_192
+    21300386: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_193
+    21300388: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_194
+    21300390: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_195
+    21300392: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_196
+    21300394: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_197
+    21300396: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_198
+    21300398: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_199
+    21300400: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_200
+    21300402: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_201
+    21300404: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_202
+    21300406: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_203
+    21300408: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_204
+    21300410: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_205
+    21300412: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_206
+    21300414: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_207
+    21300416: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_208
+    21300418: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_209
+    21300420: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_210
+    21300422: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_211
+    21300424: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_212
+    21300426: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_213
+    21300428: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_214
+    21300430: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_215
+    21300432: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_216
+    21300434: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_217
+    21300436: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_218
+    21300438: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_219
+    21300440: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_220
+    21300442: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_221
+    21300444: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_222
+    21300446: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_223
+    21300448: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_224
+    21300450: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_225
+    21300452: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_226
+    21300454: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_227
+    21300456: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_228
+    21300458: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_229
+    21300460: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_230
+    21300462: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_231
+    21300464: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_232
+    21300466: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_233
+    21300468: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_234
+    21300470: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_235
+    21300472: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_236
+    21300474: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_237
+    21300476: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_238
+    21300478: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_239
+    21300480: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_240
+    21300482: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_241
+    21300484: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_242
+    21300486: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_243
+    21300488: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_244
+    21300490: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_245
+    21300492: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_246
+    21300494: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_247
+    21300496: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_248
+    21300498: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_249
+    21300500: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_250
+    21300502: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_251
+    21300504: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_252
+    21300506: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_253
+    21300508: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_254
+    21300510: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_255
+    21300512: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_256
+    21300514: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_257
+    21300516: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_258
+    21300518: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_259
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 437
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 440
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 440
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 452
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 445
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 443
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 442
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 442
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 443
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 448
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 449
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 450
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 449
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 460
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 437
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 436
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 436
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 436
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 433
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 433
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 437
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 440
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 432
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 415
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 413
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 412
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 412
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 413
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 440
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 436
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 420
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 420
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 397
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 400
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 419
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 419
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 420
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 405
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 397
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 396
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 396
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 396
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 390
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 393
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 393
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 397
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 400
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 381
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 383
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 382
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 382
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 383
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 390
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 390
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 383
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 375
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 396
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 356
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 355
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 356
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 356
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 350
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 350
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 350
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 350
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 339
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 339
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 339
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 339
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 364
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 352
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 355
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 350
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 350
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 353
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 351
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 343
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 345
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 333
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 357
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 325
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 326
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 326
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 325
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 330
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 329
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 303
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 329
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 330
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 328
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 327
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 312
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 313
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 314
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 315
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 303
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 315
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 283
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 311
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 303
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 308
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 310
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 310
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 310
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 310
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 284
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 283
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 283
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 291
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 275
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 274
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 275
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 275
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 275
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 273
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 263
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 278
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 275
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 275
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 275
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 263
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 258
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 260
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 258
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 258
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 232
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 235
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 235
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 233
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 233
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 235
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 235
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 230
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 214
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 238
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 240
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 221
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 221
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 219
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 219
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 193
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 194
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 192
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 184
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 192
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 214
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 214
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 214
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 214
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 173
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 174
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 176
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 174
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 173
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 174
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_176
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 176
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_177
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 174
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_178
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 153
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_179
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 154
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_180
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 134
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_181
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 132
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_182
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 134
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_183
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 132
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_184
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 130
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_185
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 131
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_186
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 134
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_187
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 131
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_188
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 139
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_189
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 139
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_190
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 146
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_191
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 147
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_192
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 144
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_193
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 144
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_194
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 129
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_195
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 99
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_196
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_197
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 101
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_198
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 100
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_199
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 98
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_200
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 96
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_201
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_202
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 98
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_203
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 97
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_204
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 98
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_205
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 92
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_206
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 93
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_207
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 93
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_208
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 93
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_209
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 93
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_210
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 95
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_211
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 94
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_212
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_213
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_214
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 67
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_215
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_217
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 47
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_218
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 66
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_219
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 66
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_220
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 66
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_221
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_222
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_223
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 59
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_224
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 56
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_225
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 57
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_226
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 57
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_227
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 59
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_228
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 59
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_229
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 60
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_230
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 59
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_231
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 38
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_232
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 38
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_233
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 38
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_234
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 38
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_235
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_236
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_237
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_238
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 40
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_239
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 7
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_240
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 12
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_241
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 7
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_242
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 7
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_243
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 28
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_244
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 28
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_245
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 28
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_246
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 24
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_247
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 24
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_248
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 24
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_249
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 24
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_250
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_251
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_252
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 9
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_253
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 9
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_254
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 9
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_255
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_256
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_257
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_258
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES - Super Mario World 2 Yoshis Island - Basic Enemies_259
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
