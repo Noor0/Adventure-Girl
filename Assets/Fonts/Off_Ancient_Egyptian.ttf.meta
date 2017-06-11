@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 16b80156469e88b4db600c7061606bb7
+timeCreated: 1493320529
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Off_Ancient_Egyptian
+  fontNames:
+  - Off_Ancient_Egyptian
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

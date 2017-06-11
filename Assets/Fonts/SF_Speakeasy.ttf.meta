@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3c77e23d0feaace488195eab44bca7f8
+timeCreated: 1493318998
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Speakeasy
+  fontNames:
+  - SF Speakeasy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2929e4d0791ea534f86c8bbab4381689, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

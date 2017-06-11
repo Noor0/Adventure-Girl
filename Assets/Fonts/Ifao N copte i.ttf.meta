@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5e4731446029ed541821071bf75cd4d9
+timeCreated: 1493320529
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ifao N Copte i
+  fontNames:
+  - Ifao N Copte i
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

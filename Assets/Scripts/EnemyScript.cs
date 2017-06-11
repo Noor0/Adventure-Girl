@@ -7,6 +7,12 @@ public class EnemyScript : MonoBehaviour {
 	public float bounce;
 	public bool freeMover;
 
+	public int killScore;
+	public int turnAroundTime;
+	public int firstTurnAroundTime;
+
+	private GameController gameController;
+
 	void turn(){
 		if (speed > 0)
 			transform.rotation = Quaternion.Euler (new Vector2 (0, 180));
@@ -17,11 +23,16 @@ public class EnemyScript : MonoBehaviour {
 
 	void Start () {
 		if (freeMover)
-			InvokeRepeating("turn",2,2);
+			InvokeRepeating("turn",firstTurnAroundTime,turnAroundTime);
+
+		transform.rotation = Quaternion.Euler (Vector3.forward);
+
+		gameController = GameObject.FindWithTag ("GameController").GetComponent<GameController>();
 	}
 
 	void Update () {
 		transform.position = new Vector3(transform.position.x + speed, transform.position.y , 0.0f);
+
 	}
 
 	void OnCollisionEnter2D(Collision2D other){
@@ -41,13 +52,15 @@ public class EnemyScript : MonoBehaviour {
 	}
 
 	void OnTriggerEnter2D(Collider2D other){
-		print ("OnTriggerEnter2D");
 		if (other.gameObject.tag == "Player") {
+			GameObject.FindWithTag("SoundManager").GetComponent<AudioSource>().Play();
+
 			Player player = other.GetComponent<Player> ();
-			Destroy (gameObject);
 			player.setAllowJump(true);
 			player.jump(1000);
 			player.setAllowJump(false);
+			gameController.addScore (killScore);
+			Destroy (gameObject);
 		}
 	}
 }

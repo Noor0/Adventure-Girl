@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 95dafe421c75f2544b6ceb9a566c66d8
+timeCreated: 1493320529
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Motion Control
+  fontNames:
+  - Motion Control
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
